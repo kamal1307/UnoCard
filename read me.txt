@@ -1,0 +1,3 @@
+- Lorsqu'un joueur n'a pas la bonne carte, il doit piocher et passer son tour
+- si le joueur à la bonne carte mais qui pose une mauvaise le système re-demande qu'il pose la bonne carte
+- Lorsqu'un joueur gagne, une nouvelle manche se joue automatiquement 
